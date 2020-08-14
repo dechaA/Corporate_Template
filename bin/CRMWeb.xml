@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CRMWeb
+</name>
+</assembly>
+<members>
+<member name="F:CRMWeb.PageBaseControl.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CRMWeb.PageBaseControl">
+	<summary>
+PageBaseControl class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.RadScriptManager1">
+	<summary>
+RadScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.RadSplitter3">
+	<summary>
+RadSplitter3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.Radpane10">
+	<summary>
+Radpane10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.Radsplitter6">
+	<summary>
+Radsplitter6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.Radpane12">
+	<summary>
+Radpane12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.Radsplitter1">
+	<summary>
+Radsplitter1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.RadPane1">
+	<summary>
+RadPane1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.SlidingZone1">
+	<summary>
+SlidingZone1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.Navigator">
+	<summary>
+Navigator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.RadPanelBar1">
+	<summary>
+RadPanelBar1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.RadPane3">
+	<summary>
+RadPane3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.LabelStaffName">
+	<summary>
+LabelStaffName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.PSMain.LabelRoles">
+	<summary>
+LabelRoles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CRMWeb.PSMain">
+	<summary>
+PSMain class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="P:CRMWeb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CRMWeb.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CRMWeb.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:CRMWeb.BlankPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CRMWeb.BlankPage">
+	<summary>
+BlankPage class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CRMWeb.ContentPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CRMWeb.ContentPage.PageBaseControl1">
+	<summary>
+PageBaseControl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CRMWeb.ContentPage">
+	<summary>
+ContentPage class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CRMWeb._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CRMWeb._Default">
+	<summary>
+_Default class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,729 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PSTools
+</name>
+</assembly>
+<members>
+<member name="F:PSTools.PageBaseControl.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PageBaseControl.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.PageBaseControl">
+	<summary>
+PageBaseControl class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Link1">
+	<summary>
+Link1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Link2">
+	<summary>
+Link2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadScriptManager1">
+	<summary>
+RadScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.PageBaseControl1">
+	<summary>
+PageBaseControl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelCusID">
+	<summary>
+LabelCusID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.TextBoxCusID">
+	<summary>
+TextBoxCusID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.ImageButtonCusID">
+	<summary>
+ImageButtonCusID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelCaseNo">
+	<summary>
+LabelCaseNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.TextBoxCaseNo">
+	<summary>
+TextBoxCaseNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.ImageButtonCaseNo">
+	<summary>
+ImageButtonCaseNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadTabStrip1">
+	<summary>
+RadTabStrip1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadMultiPageCRM">
+	<summary>
+RadMultiPageCRM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadPageViewCus">
+	<summary>
+RadPageViewCus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusID">
+	<summary>
+LabelShowCusID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusIDOut">
+	<summary>
+LabelShowCusIDOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusName">
+	<summary>
+LabelShowCusName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusNameOut">
+	<summary>
+LabelShowCusNameOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusEMail">
+	<summary>
+LabelShowCusEMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelShowCusEMailOut">
+	<summary>
+LabelShowCusEMailOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadPageViewCase">
+	<summary>
+RadPageViewCase control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelCase">
+	<summary>
+LabelCase control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelCaseType">
+	<summary>
+LabelCaseType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadioButtonList1">
+	<summary>
+RadioButtonList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelProbCate">
+	<summary>
+LabelProbCate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelPriority">
+	<summary>
+LabelPriority control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadComboBoxPriority">
+	<summary>
+RadComboBoxPriority control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelStatus">
+	<summary>
+LabelStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelResponeBy">
+	<summary>
+LabelResponeBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadComboBoxResponseBy">
+	<summary>
+RadComboBoxResponseBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelDesc">
+	<summary>
+LabelDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.TextBox2">
+	<summary>
+TextBox2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelRecordBy">
+	<summary>
+LabelRecordBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelRecordName">
+	<summary>
+LabelRecordName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelRecordTime">
+	<summary>
+LabelRecordTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadTreeViewProblems">
+	<summary>
+RadTreeViewProblems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.ObjectDataSourceProblems">
+	<summary>
+ObjectDataSourceProblems control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadPageViewSolution">
+	<summary>
+RadPageViewSolution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelSolution">
+	<summary>
+LabelSolution control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelRecommend">
+	<summary>
+LabelRecommend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelSolType">
+	<summary>
+LabelSolType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelEffort">
+	<summary>
+LabelEffort control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.RadPageViewTransfer">
+	<summary>
+RadPageViewTransfer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelTranTo">
+	<summary>
+LabelTranTo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelTransReason">
+	<summary>
+LabelTransReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelTransEffort">
+	<summary>
+LabelTransEffort control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.LabelRemind">
+	<summary>
+LabelRemind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.CaseManagement.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.CaseManagement">
+	<summary>
+CaseManagement class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:PSTools.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.WebForm1.RadTreeView1">
+	<summary>
+RadTreeView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.WebForm1.ObjectDataSource1">
+	<summary>
+ObjectDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.WebForm1.RadScriptManager1">
+	<summary>
+RadScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.WebForm1">
+	<summary>
+WebForm1 class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:PSTools.PSMain.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.RadScriptManager1">
+	<summary>
+RadScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.RadSplitter3">
+	<summary>
+RadSplitter3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.Radpane10">
+	<summary>
+Radpane10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.Radsplitter6">
+	<summary>
+Radsplitter6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.Radpane12">
+	<summary>
+Radpane12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.Radsplitter1">
+	<summary>
+Radsplitter1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.RadPane1">
+	<summary>
+RadPane1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.SlidingZone1">
+	<summary>
+SlidingZone1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.Navigator">
+	<summary>
+Navigator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.RadPanelBarMenu">
+	<summary>
+RadPanelBarMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.RadPane3">
+	<summary>
+RadPane3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.LabelStaffName">
+	<summary>
+LabelStaffName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PSTools.PSMain.LabelRoles">
+	<summary>
+LabelRoles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.PSMain">
+	<summary>
+PSMain class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="P:PSTools.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PSTools.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PSTools.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:PSTools.PSTools.BlankPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.PSTools.BlankPage">
+	<summary>
+BlankPage class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:PSTools.ContentPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.ContentPage">
+	<summary>
+ContentPage class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:PSTools.PSTools._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:PSTools.PSTools._Default">
+	<summary>
+_Default class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member>
+</members>
+</doc>
